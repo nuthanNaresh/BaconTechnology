@@ -36,6 +36,14 @@ I have used below technologies and editors:
 ### Installation and Execution
 
 You have to  clone the Maven project in to your Local Machine:
+
+* Running on Different browsers
+ - **FireFox Browser** 
+ - **Chrome Browser**
+Change in the properties file
+/ /smartfocus_AutomationTest/src/main/resources/utils/CONFIG.properties
+
+
 - First Method through Command Prompt:
 ```sh
 $ git clone [git-repo-url]
