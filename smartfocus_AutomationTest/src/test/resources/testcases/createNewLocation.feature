@@ -16,4 +16,4 @@ Feature: 'New Location Creation'
     Examples: 
       | Name                 | Major        | Description                                                      | Postcode   | Radius | Catchment |
       | "Manor Park, London" | 101          | "Manor Park is residential area in the London Borough of Newham" | "EC1A 4HD" | 6      | 10        |
-    #  | "London"             | 123456789000 | "London"                                                         | "EC1A 4HD" | 6      | 10        |
+      | "London"             | 123456789000 | "London"                                                         | "EC1A 4HD" | 6      | 10        |
